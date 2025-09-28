@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Viktor!
+<h1 align="center">👋 Hi, I'm Viktor!</h1>
 
 ### Geography student specializing in geospatial data, remote sensing, and AI-powered image analysis.  
 > Data speaks, AI listens, revealing the Earth. 
