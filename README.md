@@ -6,5 +6,6 @@
 - ✉️ Reach me at 
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=python,git,docker,jenkins,html,css,vscode,r,sql,qgis))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,anaconda,html,css,git,github,vscode,jenkins,docker)](https://skillicons.dev)
+
 
