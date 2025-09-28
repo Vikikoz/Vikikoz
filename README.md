@@ -6,4 +6,4 @@
 - ✉️ Reach me at 
 
 # skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,lua,html,css,react,express,next,flask,nodejs,tailwind,bootstrap,robloxstudio,mongodb,blender,git,figma,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,docker,jenkins,html,css)](https://skillicons.dev)
