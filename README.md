@@ -5,5 +5,6 @@
 - 🌐 Check out my work at 
 - ✉️ Reach me at 
 
-# skills
-[![My Skills](https://skillicons.dev/icons?i=python,git,docker,jenkins,html,css)](https://skillicons.dev)
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=python,git,docker,jenkins,html,css,vscode,r,sql,qgis))](https://skillicons.dev)
+
