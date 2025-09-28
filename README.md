@@ -1,11 +1,14 @@
-# 👋 Hey, I'm Viktor!
+# 👋 Hi, I'm Viktor!
 
-### 🚀 20-year-old software engineer with a passion for web development, AI, and changing lives through code. Let's connect!
-
-- 🌐 Check out my work at 
-- ✉️ Reach me at 
-
+### Geography student specializing in geospatial data, remote sensing, and AI-powered image analysis.  
+> Data speaks, AI listens, revealing the Earth. 
+  
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=python,r,anaconda,html,css,git,github,vscode,jenkins,docker)](https://skillicons.dev)
 
+# Projects
+
+- **Lidar Image Analysis & AI Models** – Created databases from high-resolution LiDAR images to detect trenches and buildings in dense forest areas, and trained AI models (YOLO & U-Net) for automated detection. [Repo link](#)
+
+- **Geospatial Toolbox** – Developed a reusable set of Python scripts to simplify dataset creation and streamline personal geospatial data pipelines. 
 
