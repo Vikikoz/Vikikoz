@@ -4,7 +4,7 @@
 > Data speaks, AI listens, revealing the Earth. 
   
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,anaconda,git,github,pycharm,vscode,docker,obsidian,claude)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,anaconda,git,github,obsidian,vscode,docker)](https://skillicons.dev)
 
 # Projects
 
